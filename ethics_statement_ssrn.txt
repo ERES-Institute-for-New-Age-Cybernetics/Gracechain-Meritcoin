@@ -1,0 +1,63 @@
+ETHICS APPROVAL STATEMENT
+
+Author: Joseph A. Sprute
+Title: Planetary Emergency Declaration - Preventing the 6th Mass Extinction
+Submission to: SSRN
+
+ETHICS APPROVAL STATUS:
+
+This research did NOT require ethics approval from an Institutional Review Board (IRB) or ethics committee because it does not involve human subjects research as defined by federal regulations (45 CFR 46) or international guidelines.
+
+NATURE OF RESEARCH:
+
+This paper presents:
+1. Theoretical frameworks for planetary-scale infrastructure
+2. Systems engineering proposals for sustainable technology
+3. Analysis of published scientific data on planetary crises
+4. Mathematical and cybernetic models for coordination systems
+5. Proposed implementation strategies for mega-structure deployment
+
+This constitutes theoretical and engineering research, not empirical research involving human participants, medical interventions, psychological studies, or collection of identifiable private information.
+
+WHY ETHICS APPROVAL NOT REQUIRED:
+
+The research involves:
+- NO human subjects or participants
+- NO collection of data from individuals
+- NO interventions on human beings
+- NO medical procedures or treatments
+- NO psychological assessments or surveys
+- NO vulnerable populations
+- NO identifiable private information
+- NO animal research
+- NO collection of biological specimens
+
+The work analyzes existing published data and proposes theoretical frameworks. All data sources cited are publicly available scientific publications from NOAA, IUCN, Royal Society, Nature, Science Advances, and other peer-reviewed sources.
+
+ETHICAL FRAMEWORK EMPLOYED:
+
+While formal ethics approval was not required, the research was conducted according to rigorous ethical principles:
+
+1. **Scientific Integrity**: All claims based on verifiable, published data
+2. **Transparency**: Complete documentation of methodologies and assumptions
+3. **Peer Review**: Submission for rigorous academic scrutiny
+4. **Public Benefit**: Research aims to address existential planetary threats
+5. **Open Access**: All frameworks released under open-source principles
+6. **No Harm**: Proposed systems designed to enhance planetary health without causing harm
+
+COMPLIANCE:
+
+This research complies with:
+- Responsible conduct of research standards
+- Academic integrity principles
+- Open science commitments
+- Environmental ethics principles
+- Professional engineering ethics codes
+
+DECLARATION:
+
+I, Joseph A. Sprute, declare that this research did not require ethics approval under applicable regulations, was conducted according to rigorous ethical principles, and all scientific claims are based on verifiable published sources. I commit to maintaining these ethical standards throughout any future development or implementation.
+
+Signed: Joseph A. Sprute
+Date: January 27, 2026
+Location: Bella Vista, Arkansas
