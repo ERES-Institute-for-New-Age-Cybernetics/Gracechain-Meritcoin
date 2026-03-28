@@ -1,499 +1,237 @@
-# Gracechain-Meritcoin
+# GraceChain-Meritcoin
 
-> **Merit-Based Blockchain Economics for the New Age Cybernetics Ecosystem**  
-> *Where contribution matters more than capital, and community governs technology*
-
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-green.svg)](LICENSE)
-[![NAC Integration](https://img.shields.io/badge/NAC-Integrated-purple.svg)](https://github.com/ERES-Institute-for-New-Age-Cybernetics)
-[![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-blue.svg)](https://github.com/ERES-Institute-for-New-Age-Cybernetics/Gracechain-Meritcoin)
-
-**Repository:** [github.com/ERES-Institute-for-New-Age-Cybernetics/Gracechain-Meritcoin](https://github.com/ERES-Institute-for-New-Age-Cybernetics/Gracechain-Meritcoin)  
-**Organization:** [ERES Institute for New Age Cybernetics](https://github.com/ERES-Institute-for-New-Age-Cybernetics)  
-**Author:** Joseph A. Sprute
+> **Proof-of-Resonance Economics for Civilization-Scale Engineering Synthesis**
+> *"It's not mining — it's tuning."*
 
 ---
 
-## 🎯 Overview
+## About This Repository
 
-**Gracechain-Meritcoin** is a decentralized, merit-based token system that creates transparent, equitable mechanisms for recognizing and rewarding value creation. Unlike traditional cryptocurrencies that function primarily as stores of value or mediums of exchange, Meritcoin quantifies and incentivizes meritocratic contributions within the broader New Age Cybernetics (NAC) framework.
+This is the **primary working archive** of the ERES Institute for New Age Cybernetics — the active development workspace where framework specifications, white papers, governance documents, resonance research, and cross-LLM collaboration outputs are generated and versioned. While named for the GraceChain distributed trust ledger and Meritcoin Proof-of-Resonance economic instrument, the repository has evolved into the most comprehensive single archive of the ERES corpus.
 
-This system integrates with:
-- **UBIMIA** (Universal Basic Income + Merit + Incentives + Awards) economic model
-- **SROC** (Smart Registered Offset Contracts) with resonance weighting
-- **PlayNAC** gamification layer for accessible engagement
-- **ARI/ERI** resonance metrics for ecological alignment
-
-### Core Philosophy
-
-> "Contribution matters more than capital. Community governs technology."
-
-Gracechain-Meritcoin embodies the principle that economic systems should recognize authentic value creation - whether through research, teaching, community service, creative work, or ecological stewardship - rather than privileging pure capital accumulation.
+**110+ commits · 80+ files · Markdown, PDF, DOCX, HTML, Python, PNG, MP3**
 
 ---
 
-## ✨ Key Features
+## Proof-of-Resonance
 
-### Merit-Based Rewards
-Tokens earned through demonstrated contributions rather than purchased:
-- Research and academic excellence
-- Open-source development and documentation
-- Community organizing and support
-- Environmental stewardship actions
-- Teaching and knowledge sharing
+Meritcoin operates on **Proof-of-Resonance** — not Proof-of-Work, not Proof-of-Stake. The four BERA Resonance Metrics (ARI, ERI, RHC, RCI) feed directly into Meritcoin value accrual as a closed feedback loop:
 
-### Transparent Governance
-All transactions and reward allocations recorded on blockchain:
-- Immutable contribution tracking
-- Multi-stakeholder verification
-- Appeal and dispute resolution
-- Democratic decision-making for protocol changes
+**Ethical and ecological harmony IN → Economic value OUT**
 
-### Community-Driven Architecture
-Decentralized processes for contribution evaluation:
-- Reputation-weighted voting systems
-- Peer review mechanisms
-- Conflict resolution protocols
-- Merit-based influence rather than capital-based power
-
-### Ecological Integration
-Resonance-aligned economic incentives:
-- ARI (Aura Resonance Index) scoring
-- ERI (Emission Resonance Index) weighting
-- SROC integration for environmental credits
-- Sustainability-first decision frameworks
-
-### Privacy-Focused Design
-Privacy-preserving features where appropriate:
-- Zero-knowledge proofs for sensitive evaluations
-- Selective disclosure mechanisms
-- GDPR-compliant data handling
-- Individual sovereignty over personal data
-
-### Interoperable Infrastructure
-Designed to integrate with existing systems:
-- RESTful API interfaces
-- Web3.js/Ethers.js compatibility
-- Custom adapter patterns for legacy systems
-- Cross-platform accessibility
+This is the core economic innovation of the ERES framework: value is generated through demonstrated resonance with BEST/SOUND/GOOD outcomes, not through computational waste or capital accumulation.
 
 ---
 
-## 🏗️ Technical Architecture
+## How This Repository Maps to the ERES Trilogy
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                  GRACECHAIN-MERITCOIN ECOSYSTEM              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  ┌────────────────┐    ┌────────────────┐    ┌───────────┐ │
-│  │  Smart         │ ←→ │  Contribution  │ ←→ │ Resonance │ │
-│  │  Contract      │    │  Evaluation    │    │ Metrics   │ │
-│  │  System        │    │  Framework     │    │ (ARI/ERI) │ │
-│  └────────────────┘    └────────────────┘    └───────────┘ │
-│         ↓                      ↓                     ↓      │
-│  ┌────────────────┐    ┌────────────────┐    ┌───────────┐ │
-│  │  Governance    │    │   Privacy      │    │ SROC      │ │
-│  │  Protocols     │    │   Layer        │    │ Bridge    │ │
-│  └────────────────┘    └────────────────┘    └───────────┘ │
-│         ↓                      ↓                     ↓      │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │         Integration API & Blockchain Layer         │   │
-│  │  (Web3, RESTful, Legacy Adapters, PlayNAC Bridge)  │   │
-│  └─────────────────────────────────────────────────────┘   │
-└──────────────────────────────────────────────────────────────┘
-```
+### Book 1: One Good — BEST / Personal Graceful Evolution
 
-### Core Components
+| File | Description |
+|------|-------------|
+| `ERES_Complete_Framework_v5_0.md` | Complete NAC framework v5.0 |
+| `ERES Consolidated Framework v4.md` | Consolidated framework v4 |
+| `ERES_Consolidated_Framework_v3.0_FINAL.md` | Consolidated framework v3.0 FINAL |
+| `ERES_PlayNAC_EP_GERP_SOMT_White_Paper.md` | PlayNAC, EarnedPath, GERP, SOMT white paper |
+| `ERES_PlayNAC_KERNEL_vCurrent.docx.md` | PlayNAC KERNEL current version |
+| `ERES PlayNAC TABLE.md` | PlayNAC structural table |
+| `ERES_EPIR-Q_Analytical_Report.md` | EPIR-Q engagement protocol analysis |
+| `ERESPlayNACKERNELCodebaseV1.zip` | PlayNAC KERNEL Codebase V1 |
+| `ERES_TERMS_45.md` / `ERES_TERMS_45_v2.0.md` | 45 core ERES terms (v1 + v2) |
+| `ERES_Complete_TERMS_#45.md` | Complete terms reference (#45) |
+| `ERES_150pg_Technical_Guide_COMPLETE.md` | 150-page technical guide |
+| `50-100-150_page-Summaries.zip` | Tiered summary documents (50/100/150 pages) |
+| `ERES_Movement_Summary_2026.md` | 2026 movement summary |
+| `ERES Comprehensive Report for Decision-Makers.md` | Decision-maker briefing |
+| `ERES_ASSIMILATION_Researchers_Complete.md` | Researcher assimilation guide |
+| `ERES_CONSTRUCTION_Implementers_Complete.md` | Implementer construction guide |
+| `ERES_PRODUCTION_Programmers_Complete.md` | Programmer production guide |
 
-#### 1. Smart Contract System
-- **Merit Distribution Logic** - Automated reward calculation and allocation
-- **Contribution Verification** - Multi-stakeholder validation mechanisms
-- **Governance Protocols** - Decentralized decision-making frameworks
-- **Token Economics** - Supply management and circulation controls
+### Book 2: Security-Clearance — SOUND / Public-Private Graceful Evolution
 
-#### 2. Contribution Evaluation Framework
-- **Multi-Stakeholder Review** - Peer assessment and verification
-- **Reputation-Weighted Voting** - Expertise-based evaluation influence
-- **Appeal & Dispute Resolution** - Fair conflict resolution processes
-- **Impact Measurement** - Quantifiable contribution assessment
+| File | Description |
+|------|-------------|
+| `ERES_BEST_IT_IDIPITIS_Security_Architecture_v1.0.md` | IDIPITIS identity/security architecture v1.0 |
+| `ERES_NBERS_Technical_Implementation_Guide_v1.0.docx.md` | NBERS economic security implementation guide |
+| `ERES_NBERS_Technical_Implementation_Guide_v1.0.docx` | NBERS guide (DOCX format) |
+| `ERES_GSSG_v3.0.docx.md` | GSSG v3.0 — Global Sustainable Systems Governance |
+| `ERES GSSG v1.md` / `ERES GSSG v2.md` | GSSG evolution (v1, v2) |
+| `ERES_TERMS_47_SOUND_Loop_White_Paper.md` | SOUND Loop white paper (#47 terms) |
+| `ERES_TETRA_Scalular_Architecture_White_Paper.md` | CERT:TETRA × SCALULAR architecture |
+| `ERES_REPORT_Enneagrammatics_x_Scalulars.md` | Enneagrammatics × Scalulars report |
+| `ERES_TRANSMISSION_01_Scalulars.md` | Transmission 01: Scalulars |
+| `ERES_Security_Privacy_Trust_DRAFT.md` | Security, privacy, trust framework (draft) |
+| `ERES White Paper_ The Chief Function Protocol.md` | Chief Function Protocol white paper |
+| `ERES_Government_Partnership_Brief_2026.docx.md` | Government Partnership Brief (English) |
+| `ERES_Government_Partnership_Brief_2026_ARABIC.docx.md` | Government Partnership Brief (Arabic) |
+| `ERES_Government_Partnership_Brief_2026_CHINESE.docx.md` | Government Partnership Brief (Chinese) |
+| `ERES_Government_Partnership_Brief_2026_ESPANOL.docx.md` | Government Partnership Brief (Spanish) |
+| `ERES_Government_Partnership_Brief_2026_RUSSIAN.docx.md` | Government Partnership Brief (Russian) |
+| `ERES_Government_Partnership_Brief_Indonesian_2026.docx.md` | Government Partnership Brief (Indonesian) |
+| `ERES_Government_Partnership_Brief_Japanese_2026.docx.md` | Government Partnership Brief (Japanese) |
+| `ERES_Regierungspartnerschaftsbericht_2026.docx.md` | Government Partnership Brief (German) |
+| `ERES_Government-Partnership 7 International Languages (MD).zip` | Full 7-language package (MD) |
+| `ERES_Government-Partnership 7 International Languages (PDF).zip` | Full 7-language package (PDF) |
+| `ERES_Global_Governance_Package.zip` | Global governance package |
+| `ERES_Submission_Package.zip` | Formal submission package |
+| `ERES_World_Peace_C2H_Implementation.md` | World Peace C2H implementation |
 
-#### 3. Privacy Layer
-- **Zero-Knowledge Proofs** - Verification without revealing sensitive data
-- **Selective Disclosure** - User-controlled information sharing
-- **GDPR Compliance** - Data protection and user rights
-- **Anonymous Participation** - Optional identity protection
+### Book 3: Data-Integrity — GOOD / Graceful Evolution Verified
 
-#### 4. Integration API
-- **RESTful Interfaces** - Standard web service integration
-- **Web3.js/Ethers.js** - Ethereum ecosystem compatibility
-- **Custom Adapters** - Legacy system integration patterns
-- **PlayNAC Bridge** - Gamification layer connection
+| File | Description |
+|------|-------------|
+| `BERA_WhitePaper_v1.0.md` | BERA — Bioenergetic Resonance Architecture white paper |
+| `ERES_RCI_Specification_v1.0.docx.md` | RCI Specification v1.0 (RCI = P_Ω_norm × ARI_sys × VibConst) |
+| `ERES Resonant Harmony Cycle.md` | RHC v1.0 — Resonant Harmony Cycle *(not Cybernetics)* |
+| `ERES Resonant Harmony Cycle v2.0.md` | RHC v2.0 |
+| `ERES_Resonant_Harmony_Cycle_v3_0.docx.md` | RHC v3.0 |
+| `ERES_Resonant_Harmony_Cycle_v4_0.docx.md` | RHC v4.0 |
+| `ERES_Resonant_Harmony_Cycle_v2_0.mp3` | RHC v2.0 (audio) |
+| `ERES RHC Framework for Earth Resilience.md` / `.pdf` | RHC Earth Resilience framework |
+| `FAVORS_BERA_Public_Private_White_Paper_v6.docx.md` | FAVORS-BERA v6.0 (submitted to DBDM 2026) |
+| `FDRV_Dive_WhitePaper.docx.md` | FDRV deep-dive white paper |
+| `FDRV_GameComposites_Proposal_v3.docx.md` | FDRV × Game Composites (game.aero) proposal v3 |
+| `ERES GAIA ECVS SOMT (DRAFT).md` / `(DRAFT2).md` | GAIA-ECVS-SOMT drafts |
+| `ERES GAIA ECVS SOMT v1.0.md` / `v2.0.md` | GAIA-ECVS-SOMT v1.0, v2.0 |
+| `ERES_GAIA_SOMT_v1.0_COMPLETE.md` | GAIA-SOMT v1.0 complete |
+| `ERES GAIA GSSG _ ERES SOMT.md` / `Notes.md` | GAIA-GSSG-SOMT integration notes |
+| `ERES VERTECA Genesis Phase.md` | VERTECA Genesis Phase |
+| `ERES VERTECA Genesis Phase (Connector Code).md` | VERTECA connector code |
+| `ERES Photo-Ionization Radiative Recombination with Resonant Emission Signature (RES).md` | RES physics white paper |
+| `ERES Institute GERP Formula Clarification.md` | GERP formula clarification |
+| `ERES DATAMINING.md` | Data mining framework |
+| `ERES Turning Symbols into 1s and 0s (TETRA DRAFT).md` | CERT:TETRA symbol-to-binary draft |
+
+### Cross-Cutting / Foundational
+
+| File | Description |
+|------|-------------|
+| `ERES_Complete_Description_Corpus.md` | **Complete Description-Corpus** — 491 paragraphs, 12 parts |
+| `ERES_Anthropic-3_BOOKS.zip` | ERES Trilogy (3 Books) source archive |
+| `ERES_Anthropic-3_BOOKS PDF plus MD.zip` | Trilogy in PDF + Markdown |
+| `ERES_Trinity_SEPLTA_EMA_HHDL_Complete.md` | Trinity: SEPLTA × EMA × HHDL |
+| `ERES.md` | Core ERES overview |
+| `ERES Institute Relational Architecture Summary.md` | Relational architecture summary |
+| `03_Proof-of-Work_MD_README_v2.md` | Proof-of-Work_MD repository README v2 |
+| `ERESClaudeREADMEs.zip` | Claude-generated README archive |
+
+### LLM Collaboration & MIEVM Artifacts
+
+| File | Description |
+|------|-------------|
+| `ERES DeepSeek Epiphany Rampup Code LLM.pdf` | DeepSeek code ramp-up session |
+| `ERES Grok Anthropic PlayNAC Keywords.md` | Grok × Anthropic PlayNAC keyword development |
+| `ERES Grok BERA LLM .md` | Grok × BERA LLM collaboration |
+| `ERESAuraTech_Claude.zip` | AuraTech × Claude collaboration archive |
+| `ERESAuraTech_WhitePaper.zip` | AuraTech white paper package |
+| `ERESClaudeGrok666LLM.zip` | Claude × Grok 666 LLM analysis |
+| `ERESClaudeGrok666Triune.zip` | Claude × Grok 666 Triune analysis |
+
+### Talonics & Transmissions
+
+| File | Description |
+|------|-------------|
+| `ERES_Talonics_Glossary_2026.md` / `_v2.md` | Talonics glossary (v1 + v2) |
+| `ERES_TRANSMISSION_04_18th_Row_MUSIC.md` | Transmission 04: 18th Row MUSIC |
+| `ERES_TRANSMISSION_04_v2.0_18thRow_MUSIC_Talonics.md` | Transmission 04 v2.0: MUSIC × Talonics |
+| `ERES_TRANSMISSION_04_v3.0_CANONICAL.md` | Transmission 04 v3.0 CANONICAL |
+
+### 666 Analysis & 6th Extinction
+
+| File | Description |
+|------|-------------|
+| `666_analysis_report.md` | 666 interlocking systems analysis |
+| `666_interlocking_visualization.png` | 666 visualization (image) |
+| `666_mapping_detail.png` | 666 mapping detail (image) |
+| `6th_extinction_alarm_proposal (1).md` / `(2).md` | 6th Extinction alarm proposals |
+| `6th_extinction_v2.0_complete.md` | 6th Extinction v2.0 complete |
+| `6th_Extinction_Event_SSRN.zip` | 6th Extinction SSRN package |
+
+### Reference & External
+
+| File | Description |
+|------|-------------|
+| `Academia.edu_Bundle_-_Introduction_to_Sociocybernetics_Part_1_.zip` | Sociocybernetics reference (Academia.edu) |
+| `CODEX_HARMONICAE_Volume_IV_CYBERNETICA_T.pdf` | Codex Harmonicae Vol. IV reference |
+| `ERES_ChatGPT-Civilizational_Operating-System.png` | Civilizational OS visualization (ChatGPT) |
 
 ---
 
-## 🚀 Use Cases
+## Canonical Equations
 
-### Academic Institutions
-- Reward research contributions and peer review
-- Recognize teaching excellence and student mentorship
-- Track administrative service and committee work
-- Incentivize interdisciplinary collaboration
-
-### Open Source Communities
-- Reward code contributions and bug fixes
-- Recognize documentation and translation efforts
-- Incentivize community support and mentorship
-- Track project governance participation
-
-### Cooperative Organizations
-- Measure member contributions to shared goals
-- Distribute profits based on effort and impact
-- Track governance participation
-- Recognize leadership and initiative
-
-### Research Collaboratives
-- Reward interdisciplinary contributions
-- Track data sharing and methodological innovations
-- Recognize peer review and editorial work
-- Incentivize open access publication
-
-### DAO Governance
-- Power decentralized decision-making
-- Merit-based voting influence
-- Transparent resource allocation
-- Conflict resolution mechanisms
+1. **C = R × P / M** — Cybernetics = Resource × Purpose ÷ Method
+2. **M × E + C = R** — Matter × Energy + Constant = Reason
+3. **REAL = (E · M · R) / (T · S)** — Energy · Matter · Resonance / Time · Space *(no repeated letters)*
 
 ---
 
-## 📦 Getting Started
+## Key Terminology (Canonical)
 
-### Prerequisites
+| Term | Correct Expansion |
+|------|-------------------|
+| **UBIMIA** | Universal Basic Infrastructure, Meritcoin Incentivized Architecture |
+| **SROC** | Smart-Resonant Offset Contracts *(not "Smart Registered")* |
+| **SOMT** | Sociocratic Overlay Metadata Tapestry *(not "Strategic Optimization & Merit Tracking")* |
+| **RHC** | Resonant Harmony Cycle *(not Cybernetics)* |
+| **RCI** | Resonant Continuity Index (RCI = P_Ω_norm × ARI_sys × VibConst) |
+| **BERA** | Bioenergetic Resonance Architecture |
+| **SCALULAR** | Scalable Certification Architecture for Lifelong Universal Learning and Adaptive Resilience |
+| **IDIPITIS** | Identity architecture (identity without surveillance) |
+| **NBERS** | Economic security framework |
+| **FDRV** | Future Design Reference Vehicle (the interstellar vessel at maximum scale) |
+| **MIEVM** | Multi-Instrument Ensemble Validation Method |
+| **CCAL v2.1** | CARE Commons Attribution License |
+| **VLSA** | Validated Livable Scale Architecture |
+
+**BERA Resonance Indices:** ARI (Aura), ERI (Emission), RHC (Resonant Harmony Cycle), RCI (Resonant Continuity Index)
+
+---
+
+## Documents Found Here But Not in Support-Documentation
+
+This repository contains several critical standalone documents that are absent from the Support-Documentation repo:
+
+- **ERES_Complete_Description_Corpus.md** — the 491-paragraph, 12-part cross-document consistency framework
+- **ERES_BEST_IT_IDIPITIS_Security_Architecture_v1.0.md** — IDIPITIS standalone specification
+- **ERES_NBERS_Technical_Implementation_Guide_v1.0** — NBERS standalone (DOCX + MD)
+- **ERES_RCI_Specification_v1.0.docx.md** — RCI specification (co-developed with Butzbach)
+- **FDRV_Dive_WhitePaper.docx.md** — FDRV standalone
+- **ERES_Trinity_SEPLTA_EMA_HHDL_Complete.md** — SEPLTA/Twin Messiah document
+- **ERES_Talonics_Glossary_2026.md** — Talonics standalone
+
+---
+
+## Getting Started
 
 ```bash
-# Required
-Node.js 16+
-npm or yarn
-Solidity compiler (if modifying contracts)
-Docker (for containerized deployment)
-
-# Optional
-PostgreSQL 12+ (for metadata storage)
-Redis 6+ (for caching layer)
-IPFS node (for distributed storage)
-Installation
-bash
-
-Clone the repository
-
 git clone https://github.com/ERES-Institute-for-New-Age-Cybernetics/Gracechain-Meritcoin.git
 cd Gracechain-Meritcoin
+```
 
-Install dependencies
+Start with `ERES_Complete_Description_Corpus.md` for the unified overview, then explore by Trilogy book alignment using the tables above.
 
-npm install
+---
 
-Set up environment variables
+## License
 
-cp .env.example .env
+All original ERES materials are published under the **CARE Commons Attribution License v2.1 (CCAL)**.
 
-Edit .env with your configuration
+**Note:** This repository's GitHub license metadata currently shows CC0-1.0. The canonical license for ERES original work is CCAL v2.1, which requires attribution and prohibits weaponization. Third-party reference materials retain their original licensing.
 
-nano .env
+---
 
-Start development environment
+## Author
 
-npm run dev
-Configuration
-Create a .env file with the following parameters:
-env
+**Joseph Allen Sprute** (ERES Maestro)
+Founder and Director, ERES Institute for New Age Cybernetics
+eresmaestro@gmail.com
 
-Network Configuration
+**Co-Author:** SYU JIA WUN (independent researcher, Taiwan)
 
-NETWORK=mainnet # or testnet, localhost
-RPC_URL=https://your-rpc-endpoint.com
-CHAIN_ID=1
+---
 
-Contract Addresses
+> *"Don't hurt yourself. Don't hurt others. Build for generations to come."*
 
-MERITCOIN_ADDRESS=0x...
-GOVERNANCE_ADDRESS=0x...
-
-SROC Integration
-
-SROC_ORACLE_ENDPOINT=https://oracle.eres-institute.org/sroc
-ARI_ENDPOINT=https://api.eres-institute.org/v1/ari
-ERI_ENDPOINT=https://api.eres-institute.org/v1/eri
-
-Database Configuration
-
-DATABASE_URL=postgresql://user:pass@localhost:5432/gracechain
-REDIS_URL=redis://localhost:6379
-
-PlayNAC Bridge
-
-PLAYNAC_API=https://playnac.eres-institute.org/api
-Deployment
-bash
-
-Deploy smart contracts
-
-npm run deploy:contracts
-
-Verify on block explorer
-
-npm run verify
-
-Start the application
-
-npm start
-
-Run comprehensive tests
-
-npm test
-💻 Development Guide
-Smart Contract Development
-solidity
-// Example merit calculation contract
-contract MeritCalculator {
-// Weight factors for different contribution types
-mapping(bytes32 => uint256) public contributionWeights;
-
-    // Calculate merit score
-    function calculateMerit(
-        address contributor,
-        bytes32 contributionType,
-        uint256 impactMetric,
-        uint256 ariScore,
-        uint256 eriScore
-    ) public view returns (uint256) {
-        uint256 baseScore = contributionWeights[contributionType] * impactMetric;
-        uint256 resonanceFactor = (ariScore + eriScore) / 2;
-        return baseScore * (100 + resonanceFactor) / 100;
-    }
-}
-API Integration
-javascript
-// Example API usage
-const { GracechainClient } = require('gracechain-sdk');
-
-// Initialize client
-const client = new GracechainClient({
-rpcUrl: process.env.RPC_URL,
-privateKey: process.env.PRIVATE_KEY
-});
-
-// Submit contribution
-const contribution = await client.submitContribution({
-type: 'open_source_development',
-projectId: 'repo-123',
-commitHash: 'abc123...',
-impactDescription: 'Fixed critical security vulnerability',
-evidence: {
-pullRequest: 'https://github.com/...',
-reviewers: ['0x...', '0x...']
-}
-});
-
-// Query merit balance
-const balance = await client.getMeritBalance('0x...');
-console.log(Merit balance: ${balance} MCN);
-Contributing
-We welcome contributions in the following areas:
-javascript
-const contributionAreas = {
-smart_contracts: {
-testing: 'Write comprehensive test suites',
-optimization: 'Gas optimization and efficiency',
-security: 'Security audits and fixes',
-features: 'New protocol features'
-},
-
-api_development: {
-endpoints: 'RESTful API expansion',
-documentation: 'API documentation and examples',
-integrations: 'Third-party service connectors',
-performance: 'Optimization and caching'
-},
-
-community: {
-documentation: 'User guides and tutorials',
-translation: 'Multi-language support',
-support: 'Community support and moderation',
-education: 'Workshop materials and courses'
-},
-
-governance: {
-proposals: 'Protocol improvement proposals',
-review: 'Proposal review and feedback',
-voting: 'Governance participation',
-facilitation: 'Community discussion moderation'
-}
-};
-See CONTRIBUTING.md for detailed guidelines.
-📊 Token Economics
-Supply & Distribution
-Total Supply: 1,000,000,000 MCN (fixed)
-Initial Distribution:
-Community Pool: 60% (earned through contributions)
-Development Fund: 20% (vested over 4 years)
-Research Grants: 10% (for NAC research initiatives)
-Reserve: 10% (emergency and governance)
-Earning Mechanisms
-Merit rewards for verified contributions
-Governance participation rewards
-Staking rewards for validators
-Referral bonuses for community growth
-Grant funding for qualifying projects
-Governance Rights
-Token-weighted voting on protocol changes
-Proposal submission for major decisions
-Dispute resolution participation
-Treasury allocation decisions
-📈 Roadmap
-Phase 1: Foundation (Complete)
-✅ Core smart contract development
-✅ Basic contribution tracking
-✅ Initial governance framework
-✅ Security audits and testing
-Phase 2: Expansion (Current - Q1 2025)
-🔄 Advanced privacy features (zero-knowledge proofs)
-🔄 Cross-chain interoperability bridges
-🔄 Enhanced integration APIs
-🔄 Mobile wallet applications
-🔄 ARI/ERI resonance integration
-Phase 3: Ecosystem Growth (Q2-Q4 2025)
-📋 Third-party platform integrations
-📋 Advanced analytics dashboard
-📋 DAO tooling and governance UI
-📋 Enterprise integration frameworks
-📋 PlayNAC gamification bridge
-Phase 4: Maturation (2026+)
-📋 Multi-chain deployment
-📋 Institutional partnerships
-📋 Regulatory compliance frameworks
-📋 Global scaling infrastructure
-📋 AI-assisted contribution evaluation
-🔐 Security & Audits
-Smart Contract Security
-Multiple independent security audits
-Formal verification of critical functions
-Bug bounty program for vulnerability disclosure
-Real-time monitoring and alerting
-Data Privacy
-End-to-end encryption for sensitive data
-Zero-knowledge proofs for private evaluations
-User-controlled data sovereignty
-GDPR and privacy law compliance
-Governance Security
-Multi-signature requirements for critical operations
-Timelock mechanisms for major changes
-Emergency pause functionality
-Transparent upgrade processes
-🔗 Integration Ecosystem
-NAC Framework Integration
-yaml
-
-Integration with ERES NAC Ecosystem
-
-nac_integrations:
-ubimia:
-description: "Universal Basic Income + Merit + Incentives + Awards"
-integration: "Merit-based UBI distribution and tracking"
-status: "Active"
-
-sroc:
-description: "Smart Registered Offset Contracts"
-integration: "Environmental credit weighting by merit scores"
-status: "Active"
-
-playnac:
-description: "Gamified NAC implementation platform"
-integration: "Quest rewards and achievement tokens"
-status: "Active"
-
-ari_eri:
-description: "Resonance metrics (Aura + Emission)"
-integration: "Merit multipliers based on resonance alignment"
-status: "Active"
-
-gerp:
-description: "Global Earth Resource Planner"
-integration: "Resource allocation informed by merit contribution"
-status: "Planned Q2 2025"
-External Integrations
-GitHub: Automated contribution tracking for open source work
-GitLab: Repository activity and code review metrics
-Discourse: Community forum participation tracking
-Discord/Slack: Community support and engagement metrics
-Academic Networks: Publication and citation tracking
-DAO Platforms: Governance participation across ecosystems
-📚 Documentation
-Comprehensive documentation available:
-Technical Documentation:
-API Reference - Complete API endpoints and usage
-Smart Contract Specifications - Contract ABIs and interfaces
-Integration Guide - Third-party integration patterns
-Security Best Practices - Development security guidelines
-User Documentation:
-Getting Started Guide - Quick start for new users
-Contribution Guidelines - How to earn merit tokens
-Governance Participation - Voting and proposal processes
-Privacy & Security - Protecting your assets and data
-Developer Resources:
-SDK Documentation - JavaScript/TypeScript SDK
-Code Examples - Common integration patterns
-Testing Guide - Writing and running tests
-Deployment Guide - Production deployment strategies
-🤝 Community & Support
-Discussion Forums
-GitHub Discussions - Technical discussions and Q&A
-Discord Server - Real-time community chat (coming soon)
-Community Forum - Long-form discussions and proposals
-Get Help
-Documentation - Comprehensive guides and references
-GitHub Issues - Bug reports and feature requests
-Email Support - eresmaestro@gmail.com
-Office Hours - Weekly community calls (schedule TBD)
-Stay Updated
-Twitter - @ERESInstitute (pending)
-Medium - Blog posts and announcements
-Newsletter - Monthly updates (subscribe via website)
-⚖️ License & Legal
-CARE Commons Attribution License
-This project is licensed under the CC0-1.0 License, making it freely available for:
-✅ Civic and community use
-✅ Educational and research purposes
-✅ Non-profit implementations
-✅ Open source derivatives
-❌ Exploitative or extractive commercial use
-❌ Closed-source proprietary derivatives
-❌ Uses that harm communities or ecology
-Attribution
-When using or adapting this work, please provide attribution:
-plaintext
-Gracechain-Meritcoin by Joseph A. Sprute
-ERES Institute for New Age Cybernetics
-https://github.com/ERES-Institute-for-New-Age-Cybernetics
-Disclaimer
-This software is provided "as is" without warranty of any kind. The ERES Institute is not responsible for any losses or damages resulting from use of this system. Always conduct your own research and due diligence before participating in any blockchain-based system.
-🙏 Acknowledgments
-Inspired By:
-Meritocratic governance principles
-Decentralized autonomous organization (DAO) research
-Cooperative economics and mutual credit systems
-Open source software movement
-Built With Support From:
-The broader New Age Cybernetics community
-Open source blockchain developers
-Academic researchers in economics and governance
-Pilot community participants
-Special Thanks:
-All contributors and early adopters
-Security audit teams
-Community moderators and support volunteers
-Partner organizations and integrators
-
-"Where contribution matters more than capital, and community governs technology."
-
-[![ERES Institute](https://img.shields.io/badge/ERES-Institute_for_New_Age_Cybernetics-green.svg)](https://github.com/ERES-Institute-for-New-Age-Cybernetics)
-[![Gracechain](https://img.shields.io/badge/Gracechain-Merit_Based_Economics-purple.svg)](https://github.com/ERES-Institute-for-New-Age-Cybernetics/Gracechain-Meritcoin)
+**Document ID:** ERES-GRACECHAIN-README-2026-001
+**Last Updated:** March 28, 2026
+**Classification:** Open / Unrestricted
